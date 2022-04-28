@@ -21,7 +21,7 @@
     <center> 
       <marquee height="200pt" width="500" scrollamount="4" direction="down" behavior="scroll"><h1>This video was peacock Video</h1></marquee>
     <video width="300" height="300" controls>
-      <source src="" type="video/mp4">
+      <source src="https://github.com/manikumar9999/ik/blob/master/peacock.mp4?raw=true" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
   </video>
 </body>
